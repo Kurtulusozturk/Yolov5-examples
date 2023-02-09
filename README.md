@@ -8,4 +8,4 @@ cd yolov5
 
 pip install -r requirements.txt	
 ## Rules
-**Img and videos should be in same folder with yolov5.**
+**Img and videos should be in same folder with related code file.**
